@@ -1,0 +1,1 @@
+{"training_loss": 0.6904961615569831, "eval_accuracy": 0.5549099360836722, "eval_f1": 0.570627802690583, "train_runtime": 12118.3638, "train_samples_per_second": 1.703, "total_flos": 0.0}
